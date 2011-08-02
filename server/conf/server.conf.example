@@ -1,0 +1,13 @@
+[general]
+    servername = "TestCentral"
+
+[users]
+    [[admin]]
+        fullname = "Mr admin"
+        password = "imadmin"
+        isadmin = True
+    [[bob]]
+        fullname = "Bob Jones"
+        password = "bob"
+        
+
